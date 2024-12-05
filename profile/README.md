@@ -1,5 +1,11 @@
 ![Intro](https://komputor.no/images/komputor-front-10.svg)
 
+### Vi er opplæringskontor og samarbeidsorgan for IT- og mediefagene : Innholdsprodusent, IT-utvikler, Mediedesigner, Medieteknikk og IT-driftsteknikker
+
+#### Komputor er dedikert for å bidra til at våre medlemsbedrifter får gode fagarbeidere og til at våre lærlinger får en god opplæring hos sin lærebedrift.
+
+Vi skal være samarbeidsorgan og kontaktperson for både lærebedrift og lærling hele veien fram til fagprøven er bestått.
+
 <!--
 
 **Here are some ideas to get you started:**
